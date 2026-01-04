@@ -68,8 +68,6 @@ O projeto foi desenvolvido como parte da **Agenda 12** do curso técnico em **De
 Arquitetura MVC
 </h1>
 
-<img src= https://github.com/user-attachments/assets/628e9f32-1414-40d8-be17-e28f14b7b182/>
-
 O projeto segue o padrão **MVC**, garantindo maior organização e manutenibilidade:
 
 - **Model:** Responsável pela lógica de negócio e comunicação com o banco de dados  
@@ -79,6 +77,8 @@ O projeto segue o padrão **MVC**, garantindo maior organização e manutenibili
 <h1 align="center">
 Estrutura do Projeto
 </h1>
+
+<img src= https://github.com/user-attachments/assets/628e9f32-1414-40d8-be17-e28f14b7b182/>
 
 <div align="left">
 
