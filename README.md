@@ -1,4 +1,4 @@
-<h2 align="center"> Sistema de Currículos - Agenda 12 </h2>
+<h2 align="center"> Agenda 12 - Sistema de Currículos | ETEC </h2>
 
 <div align="center">
   
@@ -191,11 +191,22 @@ Este projeto é composto por **4 CRUDs principais**, desenvolvidos seguindo o pa
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/113260177?s=400&v=4" width="150px;" alt="Foto do Desenvolvedor"/><br>
         <sub>
-          <b>EdielOliveira</b>
+          <b>Ediel Oliveira</b>
         </sub>
       </a>
-    </td>   
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/12d933c6-c44f-4ed8-95ab-ec92d5b65256" width="150px;" alt="Foto do Desenvolvedor"/><br>
+      <sub>
+          <b>GEEAD</b>
+        </sub>
+    </td>
+  
 </table>
+
+<p align="center">
+Projeto desenvolvido como atividade acadêmica na ETEC, durante o curso técnico em Desenvolvimento de Sistemas.
+</p>
 
 
 
